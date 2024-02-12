@@ -38,8 +38,8 @@ p, #footer {
   line-height: 28px;
 }
 
-#footer {
-  margin-bottom: 33px;
+#footer a + a {
+  margin-left: 28px;
 }
 
 #line {
